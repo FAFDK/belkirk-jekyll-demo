@@ -1,6 +1,6 @@
 # Forestry Jekyll demo
 
-A Jekyll demo site for [Forestry CMS](https://forestry.io).
+A Jekyll demo site for [Forestry CMS](https://forestry.io).<br>
 [Demo](https://frosty-jepsen-a748e5.netlify.com)
 
 ## Import to Forestry
